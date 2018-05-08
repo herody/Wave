@@ -3,7 +3,7 @@
 //  Wave
 //
 //  Created by 侯亚迪 on 2018/1/2.
-//  Copyright © 2018年 mopote. All rights reserved.
+//  Copyright © 2018年 侯亚迪. All rights reserved.
 //
 
 #import "AppDelegate.h"

@@ -3,7 +3,7 @@
 //  iRecord
 //
 //  Created by 侯亚迪 on 2017/12/27.
-//  Copyright © 2017年 Mopote. All rights reserved.
+//  Copyright © 2017年 侯亚迪. All rights reserved.
 //
 
 #import "YDAnimationView.h"
